@@ -3,6 +3,8 @@
 
 # Completion process
 
+Completed: 28
+
 ## File extensions
 
 ### a
@@ -26,7 +28,15 @@ C
 
 ### d
 
+d
+deb
+dmg
+
 ### D
+
+D
+DEB
+DMG
 
 ### e
 
@@ -44,8 +54,11 @@ EXE
 
 go
 gif_C200
+gif
 
 ### G
+
+GIF
 
 ### h
 
@@ -73,7 +86,11 @@ jp2
 
 ### m
 
+mov
+
 ### M
+
+MOV
 
 ### n
 
@@ -97,7 +114,11 @@ jp2
 
 ### s
 
+smi
+
 ### S
+
+SMI
 
 ### t
 
@@ -109,7 +130,11 @@ TXT
 
 ### u
 
+udeb
+
 ### U
+
+UDEB
 
 ### v
 
@@ -151,10 +176,10 @@ NTFS
 
 ***
 
-As of 2021 Tuesday November 30th at 4:40 pm
+As of 2021 Wednesday December 1st at 8:35 pm
 
-File version: 3 (2021 Tuesday November 30th at 4:40 pm)
+File version: 4 (2021 Wednesday, December 1st at 8:35 pm)
 
-Line count (including blank lines and compiler line): 161
+Line count (including blank lines and compiler line): 186
 
 ***
