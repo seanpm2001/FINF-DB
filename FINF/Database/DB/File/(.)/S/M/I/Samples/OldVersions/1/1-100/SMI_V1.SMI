@@ -1,0 +1,32 @@
+// Please do not report this file as not working, as it does not work. I only created it, so it would be given an icon. A better example will be added in the future.
+// Last edited on 2021 Wednesday December 1st at 7:09 pm
+// Line count (including blank lines and compiler line): 33
+// File version: 1
+typedef struct {
+  uint8_t  Signature[4];           // magic 'koly'
+  uint32_t Version;                // 4 (as of 2013)
+  uint32_t HeaderSize;             // sizeof(this) =  512 (as of 2013)
+  uint32_t Flags;                 
+  uint64_t RunningDataForkOffset;
+  uint64_t DataForkOffset;         // usually 0, beginning of file
+  uint64_t DataForkLength;
+  uint64_t RsrcForkOffset;         // resource fork offset and length
+  uint64_t RsrcForkLength;        
+  uint32_t SegmentNumber;          // Usually 1, can be 0
+  uint32_t SegmentCount;           // Usually 1, can be 0
+  uuid_t   SegmentID; 
+  uint32_t DataChecksumType;       // Data fork checksum
+  uint32_t DataChecksumSize;
+  uint32_t DataChecksum[32];
+  uint64_t XMLOffset;              // Position of XML property list in file
+  uint64_t XMLLength; 
+  uint8_t  Reserved1[120];
+  uint32_t ChecksumType;           // Master checksum
+  uint32_t ChecksumSize;
+  uint32_t Checksum[32];
+  uint32_t ImageVariant;           // Unknown, commonly 1
+  uint64_t SectorCount;
+  uint32_t reserved2;
+  uint32_t reserved3;
+  uint32_t reserved4;
+} __attribute__((packed, scalar_storage_order("big-endian"))) UDIFResourceFile;
