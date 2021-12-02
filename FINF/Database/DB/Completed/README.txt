@@ -3,19 +3,30 @@
 
 # Completion process
 
-Completed: 28
+Completed: 40
 
 ## File extensions
 
 ### a
 
 as
+avi
 
 ### A
 
+AVI
+
 ### b
 
+bmp
+bsd
+bsdl
+
 ### B
+
+BMP
+BSD
+BSDL
 
 ### c
 
@@ -31,12 +42,16 @@ C
 d
 deb
 dmg
+dib
+dat
 
 ### D
 
 D
 DEB
 DMG
+DIB
+DAT
 
 ### e
 
@@ -176,10 +191,10 @@ NTFS
 
 ***
 
-As of 2021 Wednesday December 1st at 8:35 pm
+As of 2021 Thursday December 2nd at 3:48 pm
 
-File version: 4 (2021 Wednesday, December 1st at 8:35 pm)
+File version: 5 (2021 Thursday, December 2nd at 3:48 pm)
 
-Line count (including blank lines and compiler line): 186
+Line count (including blank lines and compiler line): 201
 
 ***
