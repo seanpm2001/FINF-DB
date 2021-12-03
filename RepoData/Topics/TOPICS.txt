@@ -1,0 +1,13 @@
+html
+database
+gplv3
+floss
+md
+txt
+shebang
+file-info
+gpl3
+finf
+file-format-info
+shebang-info
+file-system-info
