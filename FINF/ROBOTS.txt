@@ -1,0 +1,3 @@
+# All robots are welcome to come and learn more. Site crawlers and viewers have no exclusions.
+User-agent: *
+Disallow: 
