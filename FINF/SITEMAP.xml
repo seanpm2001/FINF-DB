@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Start of script !-->
+<!-- I don't know how to create a good sitemap. This is all I can do for now. !-->
+<urlset xmlns="https://finf-db.github.io">
+  <url>
+    <loc>http://www.example.net/?id=who</loc>
+    <lastmod>xxxx-xx-xx</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>10.0</priority>
+  </url>
+    <!-- Data goes here !-->
+  <url>
+  </url>
+</urlset>
+<!-- File info
+File type: XML Sitemap file (*.xml)
+File version: 1 (Friday, 2021 December 3rd at 2:55 pm)
+Line count (including blank lines and compiler line): 21
+!-->
+<!-- End of script !-->
