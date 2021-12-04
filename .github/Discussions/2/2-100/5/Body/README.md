@@ -73,3 +73,6 @@ This release highlights data from 2021 December 3rd. It includes the following c
 _V0.0.4-2021Dec3 - Released on 2021 Friday, December 3rd at 7:23 pm_
 
 ***
+
+
+<hr /><em>This discussion was created from the release <a href='https://github.com/seanpm2001/FINF-DB/releases/tag/V0.0.4-2021Dec3'>FINF-DB - 2021 December 3rd release</a>.</em>
