@@ -3,7 +3,7 @@
 
 # Completion process
 
-Completed: 40
+Completed: 72
 
 ## File extensions
 
@@ -11,10 +11,13 @@ Completed: 40
 
 as
 avi
+apk
 
 ### A
 
 AVI
+AS
+APK
 
 ### b
 
@@ -36,6 +39,7 @@ cyc
 ### C
 
 C
+CYC
 
 ### d
 
@@ -56,14 +60,20 @@ DAT
 ### e
 
 exe
+e
 
 ### E
 
 EXE
+E
 
 ### f
 
+for
+
 ### F
+
+FOR
 
 ### g
 
@@ -73,15 +83,29 @@ gif
 
 ### G
 
+GO
 GIF
+------- Missing: gif_c200
 
 ### h
 
+hs
+hlsl
+
 ### H
+
+HS
+HLSL
 
 ### i
 
+ipa
+iso
+
 ### I
+
+IPA
+ISO
 
 ### j
 
@@ -91,13 +115,21 @@ jp2
 
 ### J
 
+J
+JIF
+JP2
+
 ### k
 
 ### K
 
 ### l
 
+lhs
+
 ### L
+
+LHS
 
 ### m
 
@@ -146,10 +178,12 @@ TXT
 ### u
 
 udeb
+udf
 
 ### U
 
 UDEB
+UDF
 
 ### v
 
@@ -161,11 +195,23 @@ UDEB
 
 ### x
 
+xspf
+xapk
+
 ### X
+
+XSPF
+XAPK
 
 ### y
 
+yml
+yaml
+
 ### Y
+
+YML
+YAML
 
 ### z
 
@@ -191,10 +237,10 @@ NTFS
 
 ***
 
-As of 2021 Thursday December 2nd at 3:48 pm
+As of 2021 Saturday, December 4th at 3:00 pm
 
-File version: 5 (2021 Thursday, December 2nd at 3:48 pm)
+File version: 6 (2021 Saturday, December 4th at 3:00 pm)
 
-Line count (including blank lines and compiler line): 201
+Line count (including blank lines and compiler line): 247
 
 ***
