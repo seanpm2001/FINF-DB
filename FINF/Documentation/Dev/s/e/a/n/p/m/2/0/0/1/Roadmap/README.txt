@@ -318,7 +318,7 @@ reg
 applescript
 ampl
 
-2021 January 9th
+2022 January 9th
 
 m4
 m
@@ -326,7 +326,7 @@ M
 key
 odp
 
-2021 January 10th
+2022 January 10th
 
 ppt
 pptx
@@ -334,7 +334,7 @@ pot
 potx
 accdb
 
-2021 January 11th
+2022 January 11th
 
 tif
 tiff
@@ -342,7 +342,7 @@ vi
 vim
 zs
 
-2021 January 12th
+2022 January 12th
 
 // Based off JP2
 
@@ -352,7 +352,7 @@ jpm
 jpg2
 j2c
 
-2021 January 13th
+2022 January 13th
 
 // first 3 are based off JP2
 
@@ -362,10 +362,123 @@ mj2
 ada
 BAS
 
-2021 January 14th
+2022 January 14th
 
 nexe
 toc
 idr
 odt#
 ott#
+
+2022 January 15th
+
+ext4
+UDF
+fuseblk
+fat
+fat16
+
+2022 January 16th
+
+fat32
+exfat
+btrfs
+apfs
+hfs
+
+2022 January 17th
+
+hfs+
+afs
+zfs
+openZFS
+ext3
+
+2022 January 18th
+
+ext2
+squashfs
+vfat
+tmpfs
+sysfs
+
+
+2022 January 19th
+
+devpts
+securityfs
+cgroup
+cgroup2
+pstore
+
+2022 January 20th
+
+efivarfs
+proc
+bpf
+binfmt_misc
+mqueue
+
+2022 January 21st
+
+debugfs
+hugetlbfs
+tracefs
+fusectl
+configfs
+
+2022 January 22nd
+
+nsfs
+fuse.gvfs-fuse
+advfs
+athfs
+bfs
+
+2022 January 23rd
+
+ext3cow
+xfs
+ufs
+mts
+sfs
+
+2022 January 24th
+
+vfs
+fuse
+vtt
+j2k
+jpf
+
+2022 January 25th
+
+jpm
+jpg2
+j2c
+jpc
+jpx
+
+2022 January 26th
+
+mj2
+xapk
+#!/usr/bin/env python
+#!/usr/bin/env perl
+#!/usr/local/bin/swipl -q -s -t main
+
+2022 January 27th
+
+lhs
+bld
+f4v
+chr_download
+download
+
+2022 January 28th
+
+part
+dart
+gz
+gml
+gmk
