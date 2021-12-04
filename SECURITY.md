@@ -13,10 +13,11 @@ This project is a manual database project and it shouldn't be much of a problem 
 | ------- | ------------------ |-----------------|
 | V0.01-2021Nov30   | :x: | Old version, not supported |
 | V0.0.2-2021Dec1   | :x: | Old version, not supported |
-| V0.0.3-2021Dec2    | :white_check_mark: | Current version, supported |
-| < V0.0.3 & > 2021 December 2nd   | :white_check_mark:                | Current version set, supported |
-| V0.0.4-2021Dec3    | :white_check_mark: | NOT YET RELEASED |
-| V0.0.5-2021Dec3    | :white_check_mark: | NOT YET RELEASED |
+| V0.0.3-2021Dec2   | :x: | Old version, not supported |
+| V0.0.4-2021Dec3    | :white_check_mark: | Current version, supported |
+| < V0.0.3 & > 2021 December 3rd   | :white_check_mark:                | Current version set, supported |
+| ???????????????    | :white_check_mark: | NOT YET RELEASED |
+| ???????????????    | :white_check_mark: | NOT YET RELEASED |
 
 ## Reporting a Vulnerability
 
@@ -34,9 +35,9 @@ Other security currently isn't available. If there are any further questions, @ 
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2021, Thursday, December 2nd at 5:22 pm)`
+**File version:** `2 (2021, Friday, December 3rd at 7:34 pm)`
 
-**Line count (including blank lines and compiler line):** `76`
+**Line count (including blank lines and compiler line):** `97`
 
 ***
 
@@ -62,13 +63,33 @@ Other security currently isn't available. If there are any further questions, @ 
 
 > * No other changes in version 1
 
-**Version 2 (Coming soon)**
+**Version 2 (2021, Friday, December 3rd at 7:36 pm)**
+
+> Changes:
+
+> * Updated the version history section
+
+> * Added the file info section
+
+> * Added the file history section
+
+> * No other changes in version 2
+
+**Version 3 (Coming soon)**
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 6
+> * No other changes in version 3
+
+**Version 4 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 </details>
 
