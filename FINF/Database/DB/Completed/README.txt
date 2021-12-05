@@ -3,7 +3,7 @@
 
 # Completion process
 
-Completed: 72
+Completed: 86
 
 ## File extensions
 
@@ -70,10 +70,26 @@ E
 ### f
 
 for
+f01
+f03
+f08
+f09
+f18
+f77
+f90
+f95
 
 ### F
 
 FOR
+f01
+F03
+F08
+F09
+F18
+F77
+F90
+F95
 
 ### g
 
@@ -237,10 +253,10 @@ NTFS
 
 ***
 
-As of 2021 Saturday, December 4th at 3:00 pm
+As of 2021 Saturday, December 4th at 7:17 pm
 
-File version: 6 (2021 Saturday, December 4th at 3:00 pm)
+File version: 7 (2021 Saturday, December 4th at 7:17 pm)
 
-Line count (including blank lines and compiler line): 247
+Line count (including blank lines and compiler line): 263
 
 ***
