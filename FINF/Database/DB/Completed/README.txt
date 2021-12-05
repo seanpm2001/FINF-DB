@@ -3,7 +3,7 @@
 
 # Completion process
 
-Completed: 86
+Completed: 90
 
 ## File extensions
 
@@ -12,12 +12,16 @@ Completed: 86
 as
 avi
 apk
+apkm
+apks
 
 ### A
 
 AVI
 AS
 APK
+APKM
+APKS
 
 ### b
 
@@ -253,10 +257,10 @@ NTFS
 
 ***
 
-As of 2021 Saturday, December 4th at 7:17 pm
+As of 2021 Saturday, December 4th at 8:53 pm
 
-File version: 7 (2021 Saturday, December 4th at 7:17 pm)
+File version: 8 (2021 Saturday, December 4th at 8:53 pm)
 
-Line count (including blank lines and compiler line): 263
+Line count (including blank lines and compiler line): 267
 
 ***
