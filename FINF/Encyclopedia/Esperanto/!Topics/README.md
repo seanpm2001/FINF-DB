@@ -1,3 +1,4 @@
+
 ***
 
 # FINF DB Enciklopedia temolisto
@@ -42,11 +43,11 @@
 
 - [ ] 3D modeldosiero
 
-- [ ] Dosierujo
+- [X] Dosierujo
 
-- [ ] Dosierujo
+- [X] Dosierujo
 
-- [ ] DIR
+- [X] DIR
 
 - [ ] Dosiera etendo
 
@@ -156,7 +157,7 @@
 
 **Dosiertipo:** `Markdown-dokumento (*.md *.mkd *.mdown *.markdown)`
 
-**Dosierversio:** `1 (2021, ĵaŭdo, la 2-an de decembro je 2:56 p.m.)`
+**Dosierversio:** `2 (2021, ĵaŭdo, la 2-an de decembro je 5:58 p.m.)`
 
 **Liniokalkulo (inkluzive de malplenaj linioj kaj kompillinio):** `165`
 
