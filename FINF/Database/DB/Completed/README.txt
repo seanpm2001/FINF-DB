@@ -3,7 +3,7 @@
 
 # Completion process
 
-Completed: 90
+Completed: 110
 
 ## File extensions
 
@@ -39,11 +39,13 @@ BSDL
 
 c
 cyc
+cjs
 
 ### C
 
 C
 CYC
+CJS
 
 ### d
 
@@ -65,11 +67,13 @@ DAT
 
 exe
 e
+esd
 
 ### E
 
 EXE
 E
+ESD
 
 ### f
 
@@ -105,7 +109,7 @@ gif
 
 GO
 GIF
-------- Missing: gif_c200
+GIF_C200
 
 ### h
 
@@ -132,12 +136,18 @@ ISO
 j
 jif
 jp2
+java
+jar
+js
 
 ### J
 
 J
 JIF
 JP2
+JAVA
+JAR
+JS
 
 ### k
 
@@ -154,10 +164,16 @@ LHS
 ### m
 
 mov
+msi
+mjs
+msp
 
 ### M
 
 MOV
+MSI
+MJS
+MSP
 
 ### n
 
@@ -182,10 +198,12 @@ MOV
 ### s
 
 smi
+swm
 
 ### S
 
 SMI
+SWM
 
 ### t
 
@@ -211,7 +229,11 @@ UDF
 
 ### w
 
+wim
+
 ### W
+
+WIM
 
 ### x
 
@@ -257,10 +279,10 @@ NTFS
 
 ***
 
-As of 2021 Saturday, December 4th at 8:53 pm
+As of 2021 Saturday, December 4th at 7:42 pm
 
-File version: 8 (2021 Saturday, December 4th at 8:53 pm)
+File version: 9 (2021 Saturday, December 5th at 7:42 pm)
 
-Line count (including blank lines and compiler line): 267
+Line count (including blank lines and compiler line): 289
 
 ***
