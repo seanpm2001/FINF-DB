@@ -43,11 +43,11 @@
 
 - [ ] 3D model file
 
-- [ ] Folder
+- [x] Folder
 
-- [ ] Directory
+- [x] Directory
 
-- [ ] DIR
+- [x] DIR
 
 - [ ] File extension
 
@@ -157,7 +157,7 @@
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2021, Thursday, December 2nd at 2:56 pm)`
+**File version:** `2 (2021, Sunday, December 5th at 5:56 pm)`
 
 **Line count (including blank lines and compiler line):** `165`
 
